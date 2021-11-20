@@ -15,7 +15,7 @@ module.exports = {
   test: {
     username: "dena",
     password: null,
-    database: "seeEventTeamD_test",
+    database: "seeEventTeamD_test_2",
     host: "localhost",
     dialect: "postgres",
   },
